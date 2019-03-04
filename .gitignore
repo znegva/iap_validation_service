@@ -1,0 +1,5 @@
+/node_modules
+
+# dont publish sensitive data!
+config.js
+tests/requests/*.json
