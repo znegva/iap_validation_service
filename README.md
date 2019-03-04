@@ -56,7 +56,7 @@ Manually testing some custom requests can be done with [Advanced REST Client](ht
 
 ## Insights
 The j3k0/cordova-plugin-purchase plugin expects __return-data__ similar to this:
-```json
+```js
 {
   "ok": true | false, //was validation sucessful?
   "data": {
