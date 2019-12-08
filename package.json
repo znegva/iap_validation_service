@@ -1,6 +1,6 @@
 {
   "name": "iap_validation_service",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple validation service for j3k0/cordova-plugin-purchase",
   "main": "app.js",
   "scripts": {
@@ -10,6 +10,10 @@
   },
   "author": "Martin Kausche",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/znegva/iap_validation_service.git"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
