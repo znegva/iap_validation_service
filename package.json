@@ -1,6 +1,6 @@
 {
   "name": "iap_validation_service",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple validation service for j3k0/cordova-plugin-purchase",
   "main": "app.js",
   "scripts": {

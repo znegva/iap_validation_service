@@ -1,8 +1,8 @@
 # Simple validation service for j3k0/cordova-plugin-purchase
 
 A very basic receipt validation service to be used with [j3k0/cordova-plugin-purchase](https://github.com/j3k0/cordova-plugin-purchase),  
-build with [Express](https://expressjs.com/), and
-[this excellent node.js module for in-app purchase](https://github.com/voltrue2/in-app-purchase).
+build with [Express](https://expressjs.com/), and [this node.js module for in-app purchases](https://github.com/FlatIO/in-app-purchase)
+(which is forked from [here](https://github.com/voltrue2/in-app-purchase)).
 
 ## Setup
 
