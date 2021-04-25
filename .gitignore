@@ -3,3 +3,5 @@
 # dont publish sensitive data!
 config.js
 tests/requests/*.json
+
+.DS_Store
